@@ -1,0 +1,1 @@
+(function(){"use strict";angular.module("adambezemekApp",["ngCookies","ngResource","ngSanitize","ngRoute","ngAnimate"]).config(["$routeProvider",function(a){return a.when("/",{templateUrl:"views/main.html"}).when("/404",{templateUrl:"views/404.html"}).otherwise({redirectTo:"/404"})}])}).call(this);
