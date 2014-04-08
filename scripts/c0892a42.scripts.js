@@ -1,0 +1,1 @@
+(function(){"use strict";angular.module("adambezemekApp",["ngRoute","ngAnimate"]).config(["$routeProvider","$locationProvider",function(a,b){return b.hashPrefix("!"),a.when("/",{templateUrl:"views/main.html"}).when("/404",{templateUrl:"views/404.html"}).otherwise({redirectTo:"404"})}])}).call(this);
