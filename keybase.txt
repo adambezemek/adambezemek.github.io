@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/adambezemek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://adambezemek.com
+  * I am adambezemek (https://keybase.io/adambezemek) on keybase.
+  * I have a public key with fingerprint 8B80 C6B4 3375 3E59 0DC1  05F8 41FB 2A7E 7699 39C3
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8b80c6b433753e590dc105f841fb2a7e769939c3",
+            "host": "keybase.io",
+            "key_id": "41FB2A7E769939C3",
+            "uid": "4ad3e66dbf83093a76a95a446a5b6a00",
+            "username": "adambezemek"
+        },
+        "service": {
+            "hostname": "adambezemek.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1400554660,
+    "expire_in": 157680000,
+    "prev": "5f0c75f75823ac0a100347d374fed9729b29c4d562b5cce37f3b624381099b08",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFlkVtIFGEUx3fXC7ZRCCX4YIVfL1ts9s3lm8vaRcsiiK0kSQlhmcs37qA7s86O
+6y1TiAJLqweFTEnLWhTsqQ0RJMwtsotGLJgWiKY9hIEPUhFWNJP11Pdy+M75/f/n
+HM71TSkOt7Nwbff5aBefcL4c+yY6Tjc8GWoEoi7XA18jqMR/gqJqFdgIG6pmAh/g
+RA5KjEhTFIsojHgoSwRECkcTikgKLGYZnqd4iQJeENQjtsKyEYUIzlN1K2d9Aqps
+ZWni6CGykD2yzh+2+Zr1giBTmGFkUeEoyFMCywg8EmiaEZDICBDaYAQbmhDCFi3I
+QkjEDTiEK0GTF1iFqCphe2y7+/9QnqSHLIewoZu6pFdZxaBphn221qwP23AtFgN/
+bQKiqsnW9pYgio2IqmvAR1ikZKq2L0FDiBDNMNALcF1YNXBAtQnEMhy0nt0GRy1L
+pECJRQqLOJISJCgQEFI0K1MsrWCZZ0leJHmJlhFDikiSMMUqlMiQNMURkOdFyAF7
+sWpNBz5kjSlUWJYRtUITzBoDg6ZWZ06qw+l2pKe57Ps53Bsy/13VyM9wdHr636oD
+qH1mRB7tenEqEWfb+BbtQFn2lKsEL3vav1+5v9LXmo8epO/cm3Ep8Wl8siRj6eBS
+2kpvy9Ke8MR8M3mveapsoaNgItKamtmbdcef2+fxsVpioeVVx+ZodpJZPfNh9nls
+Oab/OLZ/sGYa7Eh/NOza9TnWNucv7SYG89Y+zjwcuPWu4BfzdbXn3OLG0FPKD1B5
+eaiduZmSvHHyxOULaY/H2/zHi2fr2OKrnW98r2PJ2p/5PaM5waKxfQP9QYiTXUVn
+tYvl27OGM+9um6MD3mdf6hNDrq2lwfgUWxrpNpviRdPVi57CKvf7a8GVzi23U0a4
+yfh8bvI3
+=xFeU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adambezemek
+
+==================================================================
