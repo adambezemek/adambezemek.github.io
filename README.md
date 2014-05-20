@@ -1,3 +1,3 @@
-adambezemek.github.io
-=====================
-Personal website... why not?
+adambezemek.source
+==================
+This is adambezemek.com, thanks for looking.
