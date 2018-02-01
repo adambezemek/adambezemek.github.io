@@ -52,8 +52,6 @@ h5 {
   font-weight: 600;
 }
 
-//NOT TYPE
-
 .ab {
   width: 250px;
   background: $white;
@@ -64,7 +62,8 @@ h5 {
   vertical-align: middle;
 }
 .bg-dark {
-  background: #000;
+  background: url("./images/header-bg.png") repeat;
+  margin-left: -3px;
 }
 .header-background {
   background: url("./images/header-bg.png") repeat;
