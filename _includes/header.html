@@ -1,0 +1,19 @@
+<header class="header-background top-border px-2 clearfix affix">
+    <div class="left py-1">
+        <a href="{{ site.baseurl }}/" class="home-link">
+            <img class="home" src="/assets/images/ic_home_white_24px.svg">
+          </a>
+    </div>
+    <div class="right py-1">
+        <ul class="list-reset font-smoothing">
+            {% for my_page in site.pages %} {% if my_page.title %}
+            <li class="inline-block">
+                <a class="align-middle link-primary header-text mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
+                  {{ my_page.title }}
+                </a>
+            </li>
+            {% endif %} {% endfor %}
+        </ul>
+    </div>
+</header>
+

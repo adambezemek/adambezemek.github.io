@@ -1,0 +1,54 @@
+@keyframes shake-rotate {
+    0% {
+      transform: translate(0, 0) rotate(0);
+    }
+    25% {
+      transform: translate(0, 0) rotate(-30deg);
+    }
+    75% {
+      transform: translate(0, 0) rotate(30deg);
+    }
+    100% {
+      transform: translate(0, 0) rotate(0);
+    }
+  }
+  .shake-rotate:hover,
+  .shake-trigger:hover .shake-rotate,
+  .shake-rotate.shake-freeze,
+  .shake-rotate.shake-constant {
+    animation-name: shake-rotate;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+  .shake-freeze,
+  .shake-constant.shake-constant--hover:hover,
+  .shake-trigger:hover .shake-constant.shake-constant--hover {
+    animation-play-state: paused;
+  }
+  .shake-freeze:hover,
+  .shake-trigger:hover .shake-freeze,
+  .shake:hover,
+  .shake-trigger:hover .shake,
+  .shake-little:hover,
+  .shake-trigger:hover .shake-little,
+  .shake-slow:hover,
+  .shake-trigger:hover .shake-slow,
+  .shake-hard:hover,
+  .shake-trigger:hover .shake-hard,
+  .shake-horizontal:hover,
+  .shake-trigger:hover .shake-horizontal,
+  .shake-vertical:hover,
+  .shake-trigger:hover .shake-vertical,
+  .shake-rotate:hover,
+  .shake-trigger:hover .shake-rotate,
+  .shake-opacity:hover,
+  .shake-trigger:hover .shake-opacity,
+  .shake-crazy:hover,
+  .shake-trigger:hover .shake-crazy,
+  .shake-chunk:hover,
+  .shake-trigger:hover .shake-chunk {
+    animation-play-state: running;
+  }
+  
+  
