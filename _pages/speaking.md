@@ -10,7 +10,6 @@ I speak at events on occasion.
 - Meetups
   - AngularMN
   - JavaScript MN
+  - Chippewa Valley Developers Group
 - Minnebar
 - Open Source North
-
-**More details to come...*
