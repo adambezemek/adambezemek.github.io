@@ -21,7 +21,7 @@ intro: >- # this means to ignore newlines
   i'm <a href="/about-me/" class="link-primary">adam bezemek</a>, a front-end architect, speaker, cultural ambassador, loving father, and boyfriend; living in the beautiful bluffs of la crosse, wi.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://adambezemek.com # the base hostname & protocol for your site, e.g. http://example.com
 social_link: twitter
 social_username: adambezemek
 
