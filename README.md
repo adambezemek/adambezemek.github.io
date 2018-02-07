@@ -1,3 +1,3 @@
-adambezemek.source
+adambezemek.com
 ==================
-This is adambezemek.com, thanks for looking.
+This is my personal jekyll site, thanks for looking.

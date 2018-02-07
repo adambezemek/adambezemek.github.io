@@ -38,6 +38,7 @@ sass:
     
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 include: ["_pages"] 
 permalink: /:title/ 
